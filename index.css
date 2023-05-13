@@ -11,8 +11,16 @@
 body {
     width: 95%;
     padding: 10px;
-    font-size: 150%;
+    font-size: 100%;
     font-family: system-ui;
-    text-align: center;
+    text-align: left;
 }
 
+.faq , .indent{
+    text-indent: 1rem;
+}
+
+.faq-text {
+    padding-left: 1rem;
+    text-indent: 0rem;
+}
